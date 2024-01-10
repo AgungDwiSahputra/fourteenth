@@ -66,7 +66,7 @@
 
                 <!-- LOGO -->
                 <div class="mx-auto">
-                    <img src="{{ asset('assets/image/logo/humanvue.svg') }}" alt="Logo Humanvue">
+                    <img src="{{ asset('assets/image/logo/humanvue.png') }}" alt="Logo Humanvue" style="width:12vw">
                 </div>
             </div>
         </nav>
